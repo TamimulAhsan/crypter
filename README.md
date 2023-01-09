@@ -1,5 +1,5 @@
 # crypter
-A tool to do cryptographic tasks written in Python3.
+A tool to perform cryptographic tasks written in Python3.
 ---------------------------------------------------------
 
 What can it do?
