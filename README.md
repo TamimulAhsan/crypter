@@ -13,14 +13,12 @@ What can it do?
   
 No extra requirements needed to run this script. Just clone and run, as simple as that.
 
-
-
-
 Usage: 
 
+     git clone https://github.com/TamimulAhsan/crypter.git
+Enter directory:
 
-       git clone https://github.com/TamimulAhsan/crypter.git
+    cd crypter
+Run the script:
 
-       cd crypter
-       
-       python3 crypter.py
+    python3 crypter.py
