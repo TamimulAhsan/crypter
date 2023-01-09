@@ -17,5 +17,11 @@ No extra requirements needed to run this script. Just clone and run, as simple a
 
 
 Usage: git clone https://github.com/TamimulAhsan/crypter.git
+
+
+
        cd crypter
+       
+       
+       
        python3 crypter.py
