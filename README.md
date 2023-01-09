@@ -4,7 +4,6 @@ A tool to perform cryptographic tasks written in Python3.
 
 What can it do?
 
-  Encryption and Decryption of:
   Atbash Cipher,
   Morse Code,
   Ceaser Cipher,
