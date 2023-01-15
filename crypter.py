@@ -237,11 +237,8 @@ elif enc_or_dec == '2':
         aa = input('Do you know shift value? y/n:  ').lower()
 
         if aa == 'y':
-            shft_val = int(input('Enter shift value: '))
-
-        if aa == 'y':
             shift_val = int(input('Enter shift value: '))
-            print(f"Here's your decrypted text: {ceaser_cipher_decrypt(dec_3,shft_val)}")
+            print(f"Here's your decrypted text: {ceaser_cipher_decrypt(dec_3,shift_val)}")
 
         else:
             ceaser_cipher_decrypt_bruteforce(dec_3)
