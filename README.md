@@ -1,8 +1,8 @@
 # crypter
-A tool to perform cryptographic tasks written in Python3.
+A tool to perform cryptographic tasks, written in Python3.
 ---------------------------------------------------------
 
-What can it do?
+What it can do?
 
   Atbash Cipher,
   Morse Code,
